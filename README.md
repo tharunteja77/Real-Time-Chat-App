@@ -132,7 +132,7 @@ Realtime-Chat-App/
 │   │   ├── utils/
 │   │   └── main.jsx
 │
-├── server/
+├── backend/
 │   ├── config/
 │   ├── controllers/
 │   ├── middleware/
